@@ -1,10 +1,10 @@
 WoWChat -- README
 =================
 
-**=================**
+=================
 **FORKED FROM https://github.com/fjaros/wowchat**
 **extremely minor edits for WoW Ascension by Fujoshi**
-**=================**
+=================
 
 WoWChat is a Discord integration chat bot for old versions of World of Warcraft.
 
